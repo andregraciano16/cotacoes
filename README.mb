@@ -3,6 +3,5 @@ Projeto cotações
 #Para executar configure as dependências
 'npm i'
 
-#Depos 
-
+#Depois 
 'npm start'
